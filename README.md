@@ -1,2 +1,2 @@
-# Programmers
+# Programmers school
 - Python
